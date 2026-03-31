@@ -1,6 +1,8 @@
 # Telecom-Analysis
 
 **Objetivo del Proyecto**
+
+
 -Analizar el comportamiento de los clientes de ConnectaTel para identificar patrones de uso, segmentarlos en grupos relevantes y generar recomendaciones accionables que apoyen decisiones comerciales y de marketing.
 
 **Conjuntos de datos utilizados**
@@ -11,6 +13,8 @@
 -use_agg.csv : Datos agregados de uso por cliente.
 
 **Etapa del Análisis Realizado**
+
+
 -Exploración inicial de datos : revisión de estructura, valores nulos y sentinelas.
 
 -Limpieza y diagnóstico : tratamiento de valores atípicos, estandarización de fechas y validación de variables.
@@ -22,6 +26,8 @@
 -Insight ejecutivo : conclusiones y recomendaciones estratégicas para las partes interesadas.
 
 **Cómo ejecutar el cuaderno**
+
+
 -Abre Google Colab (colab.research.google.com en Bing) .
 
 -Sube el archivo .ipynb del proyecto.
@@ -31,6 +37,8 @@
 -Ejecuta las celdas en orden para reproducir el análisis completo.
 
 **Guía de Reproducción**
+
+
 -Clona este repositorio o descarga los archivos.
 
 -Abra el cuaderno en Colab o Jupyter Notebook.
